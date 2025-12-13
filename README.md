@@ -15,6 +15,7 @@ docker-compose up -d
 ## Основные endpoints
 - `POST /api/files/upload-with-analysis` - загрузить работу
 - `GET /reports/{workId}` - получить отчеты
+
 Также Swagger работает и для микросервисов - при желании можно обособленно проверить работу каждого из них
 
 ## Алгоритм проверки
