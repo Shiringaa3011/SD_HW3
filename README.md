@@ -28,6 +28,6 @@ docker-compose up -d
 `сходство = (общие_уникальные_слова / все_уникальные_слова) × 100%`
 
 ## Swagger
-- ApiGateway: http://localhost:6000/swagger
+- ApiGateway: http://localhost:5000/swagger
 - FileService: http://localhost:5001/swagger
-- AnalysisService: http://localhost:5003/swagger
+- AnalysisService: http://localhost:5002/swagger
