@@ -31,3 +31,4 @@ docker-compose up -d
 - ApiGateway: http://localhost:5000/swagger
 - FileService: http://localhost:5001/swagger
 - AnalysisService: http://localhost:5002/swagger
+(сначала тут были перепутаны хосты(((()
